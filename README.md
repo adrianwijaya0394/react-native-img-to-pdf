@@ -16,7 +16,7 @@ or
 import RNImageToPdf from 'react-native-img-to-pdf';
 
 ...
-const myAsyncPDFFunction = async () => {
+const imgToPDF = async () => {
 	try {
 		const options = {
 			imagePaths: imagePaths: ['/path/to/image1.png','/path/to/image2.png'],
