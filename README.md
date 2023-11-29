@@ -5,11 +5,11 @@ Create a PDF from images in React-Native.
 
 ## Getting started
 
-`$ npm install react-native-img-to-pdf --save`
+`$ npm install @star/react-native-img-to-pdf --save`
 
 or
 
-`$ yarn add react-native-img-to-pdf`
+`$ yarn add @star/react-native-img-to-pdf`
 
 ## Usage
 ```javascript
