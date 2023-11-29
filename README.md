@@ -1,7 +1,7 @@
 
 # react-native-img-to-pdf
 
-Create a PDF by an Array of images in React-Native.
+Create a PDF from images in React-Native.
 
 ## Getting started
 
